@@ -1,3 +1,3 @@
 # Search-Atsurabzaid
 AZ
-![Alt text](relative/path/to/img.jpg?raw=true "search-az.png")
+![alt text](https://raw.githubusercontent.com/angelbarusta/Search-Atsurabzaid/master/path/to/search-az.png)
